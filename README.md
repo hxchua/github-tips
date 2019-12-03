@@ -27,6 +27,12 @@ If you would like to insert images in README, one way to do it is to upload the 
 
 If you want the text to appear "code"-like, embrace your code within this symbol, i.e. start and end your code with  ` .   
 
+More options relating to styling such as bold and italics in README can be found [here](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).  
+
+---
+
+If you want to insert a hyperlink, embrace the text intended for the hyperlink within [ ] and then input the link within ( ). i.e. `[text](link)`.  
+
 ---
 ### Features on Github  
 
@@ -35,7 +41,7 @@ You can edit the README directly (click on the pencil you see at the right corne
 <img src="https://github.com/hxchua/github-tips/blob/master/images/githubtips2.png?raw=true" width="800" height="340">  
 
 ### Fork
-If you want to perform changes to someone's work/ repository, fork it first. Create the necessary changes you would like then do a pull request.  
+If you want to perform changes to someone's work/ repository, fork it first. Create the necessary changes you would like then do a pull request. You can try forking this repo to your own Github and then make edits to the README file to get a taste of how things work in README.   
 
 ### Clone  
 If you want to "download" the repository to your desktop (i.e. local), clone the repository. And of course, if you would like to use Github via common line interface, that's also possible. For which, you have to download/ install Git.   
@@ -44,3 +50,5 @@ If you want to "download" the repository to your desktop (i.e. local), clone the
 <img src="https://github.com/hxchua/github-tips/blob/master/images/githubtips3.png?raw=true" width="600" height="270">
 <img src="https://github.com/hxchua/github-tips/blob/master/images/githubtips4.png?raw=true" width="600" height="270">
 <img src="https://github.com/hxchua/github-tips/blob/master/images/githubtips1.png?raw=true" width="600" height="270">  
+
+
