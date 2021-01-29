@@ -44,7 +44,7 @@ You can edit the README directly (click on the pencil you see at the right corne
 If you want to perform changes to someone's work/ repository, fork it first. Create the necessary changes you would like then do a pull request. You can try forking this repo to your own Github and then make edits to the README file to get a taste of how things work in README.   
 
 ### Clone  
-If you want to "download" the repository to your desktop (i.e. local), clone the repository. And of course, if you would like to use Github via common line interface, that's also possible. For which, you have to download/ install Git.   
+If you want to "download" the repository to your desktop (i.e. local), clone the repository. And of course, if you would like to use Github via common line interface, that's also possible. For which, you have to download/ install Git. If using Git bash, go to the folder you want to download the repository into, right click on any empty space on screen, choose Git Bash Here from the dropdown and type `git clone https://github.com/hxchua/github-tips` when Git Bash is launched.  
 
 ### Creating new repository  
 <img src="https://github.com/hxchua/github-tips/blob/master/images/githubtips3.png?raw=true" width="600" height="270">
